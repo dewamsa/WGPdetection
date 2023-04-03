@@ -1,6 +1,6 @@
 # WGPdetection
 
-This repo is the official implementation of Efficient Multi-Branch Convolutional Neural Networks (**under review** on Computers and Electronics in Agriculture). 
+This repo is the official implementation of Efficient Multi-Branch Convolutional Neural Networks (**accepted** on Computers and Electronics in Agriculture). 
 
 ## Requirements
 Install the libraries below to use the model.
