@@ -19,7 +19,7 @@ model = MBGDRA(
 )
 ```
 ## Citations
-Our published paper can be found in here.
+Our published paper can be found in <a href="https://www.sciencedirect.com/science/article/pii/S0168169923002181">HERE</a>.
 
 Please cite our paper if you find our code help your work.
 ```latex
