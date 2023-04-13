@@ -19,9 +19,9 @@ model = MBGDRA(
 )
 ```
 ## Citations
-Our published paper can be found in here.
+Our published paper can be found in here. \n
 Please cite our paper if you find our code help your work.
-'''latext
+'''python
 @article{ARSA2023107830,
 title = {Eco-friendly weeding through precise detection of growing points via efficient multi-branch convolutional neural networks},
 journal = {Computers and Electronics in Agriculture},
