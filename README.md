@@ -18,6 +18,18 @@ model = MBGDRA(
     catt = [True, False, True],     # True if you want to use channel attention on the decoder layer
 )
 ```
+## Acknowledgement
+We would like to acknowledge the contributions of the following authors to this work:
+1. Dewa Made Sri Arsa
+2. Talha Ilyas
+3. Seok-Hwan Park
+4. Okjae Won
+5. Hyongsuk Kim
+
+This work is the intellectual property of the Core Research Institute of Intelligent Robots, Jeonbuk National University, Korea.
+
+This work was supported in part by the Crop and Weed Project administered through the Agricultural Science and Technology Development Cooperation Research Program (PJ015720) and by the National Research Foundation of Korea (NRF) grant funded by the Korea government (NRF-2019R1A2C1011297 and NRF-2019R1A6A1A09031717).
+
 ## Citations
 Our published paper can be found in <a href="https://www.sciencedirect.com/science/article/pii/S0168169923002181">HERE</a>.
 
